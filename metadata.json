@@ -1,6 +1,6 @@
 {
   "name": "Nexus AI OS",
-  "description": "An ambitious, commercial-grade Artificial Intelligence Operating System dashboard featuring multi-agent orchestration, layered memory explorer, RAG knowledge core, companion automation triggers, and client-server Gemini integration.",
+  "description": "An Artificial Intelligence Operating System dashboard with multi-agent orchestration, layered memory, RAG core, automation, and Gemini integration.",
   "requestFramePermissions": [
     "microphone"
   ],
